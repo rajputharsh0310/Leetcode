@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajputharsh0310/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputharsh0310/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/rajputharsh0310/Leetcode/tree/master/1695-maximum-erasure-value) |
 ## Dynamic Programming
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rajputharsh0310/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajputharsh0310/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1208-get-equal-substrings-within-budget](https://github.com/rajputharsh0310/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputharsh0310/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/rajputharsh0310/Leetcode/tree/master/1695-maximum-erasure-value) |
@@ -34,5 +36,10 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rajputharsh0310/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajputharsh0310/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1695-maximum-erasure-value](https://github.com/rajputharsh0310/Leetcode/tree/master/1695-maximum-erasure-value) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajputharsh0310/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->

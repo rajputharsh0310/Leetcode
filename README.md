@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/rajputharsh0310/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajputharsh0310/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputharsh0310/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/rajputharsh0310/Leetcode/tree/master/1695-maximum-erasure-value) |
@@ -31,6 +32,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/rajputharsh0310/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1208-get-equal-substrings-within-budget](https://github.com/rajputharsh0310/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 ## Hash Table
 |  |
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajputharsh0310/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/rajputharsh0310/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

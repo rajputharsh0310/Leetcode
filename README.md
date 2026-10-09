@@ -9,6 +9,7 @@
 | [0525-contiguous-array](https://github.com/rajputharsh0310/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajputharsh0310/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rajputharsh0310/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajputharsh0310/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajputharsh0310/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputharsh0310/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rajputharsh0310/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0930-binary-subarrays-with-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajputharsh0310/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1208-get-equal-substrings-within-budget](https://github.com/rajputharsh0310/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputharsh0310/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -42,6 +44,7 @@
 | [0525-contiguous-array](https://github.com/rajputharsh0310/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajputharsh0310/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rajputharsh0310/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajputharsh0310/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/rajputharsh0310/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 ## Hash Table
@@ -51,6 +54,7 @@
 | [0523-continuous-subarray-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rajputharsh0310/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajputharsh0310/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajputharsh0310/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajputharsh0310/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1695-maximum-erasure-value](https://github.com/rajputharsh0310/Leetcode/tree/master/1695-maximum-erasure-value) |

@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0053-maximum-subarray) |
 | [0303-range-sum-query-immutable](https://github.com/rajputharsh0310/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rajputharsh0310/Leetcode/tree/master/0525-contiguous-array) |
@@ -17,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputharsh0310/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

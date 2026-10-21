@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/rajputharsh0310/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rajputharsh0310/Leetcode/tree/master/0525-contiguous-array) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rajputharsh0310/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rajputharsh0310/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajputharsh0310/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajputharsh0310/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Design
 |  |
@@ -105,8 +108,10 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

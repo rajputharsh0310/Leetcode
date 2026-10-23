@@ -8,6 +8,7 @@
 | [0152-maximum-product-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/rajputharsh0310/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajputharsh0310/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -48,6 +49,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1208-get-equal-substrings-within-budget](https://github.com/rajputharsh0310/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 ## Prefix Sum
 |  |
@@ -91,6 +93,7 @@
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Divide and Conquer
 |  |
@@ -116,4 +119,16 @@
 | ------- |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

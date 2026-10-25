@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/rajputharsh0310/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
@@ -46,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rajputharsh0310/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rajputharsh0310/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/rajputharsh0310/Leetcode/tree/master/0242-valid-anagram) |
 | [1208-get-equal-substrings-within-budget](https://github.com/rajputharsh0310/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/rajputharsh0310/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rajputharsh0310/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajputharsh0310/Leetcode/tree/master/0217-contains-duplicate) |
@@ -118,6 +121,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rajputharsh0310/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajputharsh0310/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |

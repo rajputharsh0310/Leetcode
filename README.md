@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rajputharsh0310/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/rajputharsh0310/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -70,6 +71,7 @@
 | [0001-two-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/rajputharsh0310/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rajputharsh0310/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajputharsh0310/Leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajputharsh0310/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rajputharsh0310/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajputharsh0310/Leetcode/tree/master/0242-valid-anagram) |
 ## Boyer–Moore Majority Vote Algorithm

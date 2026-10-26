@@ -50,6 +50,7 @@
 | [0049-group-anagrams](https://github.com/rajputharsh0310/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rajputharsh0310/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/rajputharsh0310/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajputharsh0310/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/rajputharsh0310/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/rajputharsh0310/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajputharsh0310/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajputharsh0310/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajputharsh0310/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rajputharsh0310/Leetcode/tree/master/0525-contiguous-array) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajputharsh0310/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajputharsh0310/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Design
 |  |
@@ -113,6 +116,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rajputharsh0310/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |

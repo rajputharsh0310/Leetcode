@@ -77,6 +77,7 @@
 | [0049-group-anagrams](https://github.com/rajputharsh0310/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rajputharsh0310/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rajputharsh0310/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajputharsh0310/Leetcode/tree/master/0242-valid-anagram) |
@@ -104,6 +105,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
@@ -142,6 +144,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajputharsh0310/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -151,5 +154,6 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

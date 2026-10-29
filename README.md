@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/rajputharsh0310/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/rajputharsh0310/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/rajputharsh0310/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajputharsh0310/Leetcode/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@
 | [0001-two-sum](https://github.com/rajputharsh0310/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/rajputharsh0310/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rajputharsh0310/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/rajputharsh0310/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rajputharsh0310/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rajputharsh0310/Leetcode/tree/master/0217-contains-duplicate) |
@@ -156,4 +158,8 @@
 | ------- |
 | [0202-happy-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/rajputharsh0310/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rajputharsh0310/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
